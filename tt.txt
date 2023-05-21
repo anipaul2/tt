@@ -1,0 +1,27 @@
+exp 1 :- Basic operations of the linked list.
+exp 2 :- Two lists are to be maintained containing integer values. The values are not stored in continuous 
+memory locations. Let one list be 7->1->5 and another list be 5->9->2. Create a third list such that the 
+third list contains the sum of the first two list i.e 517+295 =812  and save it as 2->1>8.
+exp 3 :- Names of persons are saved in a list. Create function to check if the names are palindrome or not.
+exp 4 :- You are in the process of creating a text editor (like notepad /Ms Word). The text editor saves 
+particular word in form a string. We need to provide the feature of Find and Replace a particular substring 
+in the given text editor.
+exp 5 :- Characters are sorted in a form of a list (non continuous).  We have to check if the list of 
+characters has a given character in it or not.
+exp 6 :- Three list are maintained with the integer roll nos of the students. One list contains the roll 
+nos and name of the students, second list contains the roll  nos and the course name (BE, BCA etc) for the 
+student and the third list contains the roll no. and CGPA of the student. Find a way to check the common 
+roll nos in the 3 lists. Note: the 3 lists are sorted by the roll nos.
+exp 7 :- A set of strings are saved in a data structure. Represent the strings in form a non linear data 
+structure in such a way that the searching takes the minimal time.
+exp8 :- Without comparing the integer values in an array, sort the array of integers in ascending order.
+exp9 :- List of Marks obtained by students of your class is maintained in form a linked List. Apply a 
+sorting algorithm with complexity O (n^2) to sort the list.
+exp 10 :- Two arrays are maintained such that the marks are in descending order. We need to reverse the two 
+arrays using another data structure so that the arrays are in ascending order. Hint: Use LIFO
+exp 11 :-  A thief enters a house. He is carrying a sack of some capacity say ‘m’. He can fill the sack 
+with objects in the house and can carry a fraction of the object. The weights of each object are given by 
+wi. For carrying each of the object in the sack, he earns a profit of pi. Write a code to maximize his 
+profit.
+
+
